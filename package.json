@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Pseudo_Illyes",
+  "author": "Byakko",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.0.0",
